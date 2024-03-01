@@ -7,114 +7,30 @@ const Board = () => {
     <div className="Board">
       <table>
         <thead>
-          <tr>
-            <th>Monday</th>
-            <th>Tuesday</th>
-            <th>Wednesday</th>
-            <th>Thursday</th>
-            <th>Friday</th>
-          </tr>
+        Welcome to "Top 10 Programming Languages to Learn in 2024," your ultimate guide to staying ahead in the dynamic world of coding. 
+        As technology continues to advance at a rapid pace, mastering the right programming languages is essential for career growth and innovation. 
+        Join us as we explore the top languages poised to shape the future of software development and equip you with the skills needed to thrive in the digital age.
         </thead>
         <tbody>
           <tr>
-            <td className="time">8 am</td>
-            <Event event='Fancy Dinner' color='green'/>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <Event event='JavaScript' color='blue'/>
+            <Event event='Python' color='blue'/>
           </tr>
           <tr>
-            <td className="time">9 am</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <Event event='C++' color='blue'/>
+            <Event event='Swift' color='blue'/>
           </tr>
           <tr>
-            <td className="time">10 am</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <Event event='Assembly' color='blue'/>
+            <Event event='Rust' color='blue'/>
           </tr>
           <tr>
-            <td className="time">11 am</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <Event event='Typescript' color='blue'/>
+            <Event event='PHP' color='blue'/>
           </tr>
           <tr>
-            <td className="time">12 pm</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td className="time">1 pm</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td className="time">2 pm</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td className="time">3 pm</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td className="time">4 pm</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td className="time">5 pm</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <Event event='Java' color='blue'/>
+            <Event event='SQL' color='blue'/>
           </tr>
         </tbody>
         </table>

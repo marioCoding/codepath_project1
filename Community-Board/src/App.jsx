@@ -5,10 +5,8 @@ const App = () => {
 
   return (
     <div className="App">
-      <h1>Intenerary for 7 Days in San Francisco</h1>
-      <h2>Welcome to San Francisco, home of the Golden Gate Bridge! Check out 
-        this calender to get to know the city and see all the sights during your your
-        stay.
+      <h1>Top 10 Programming Languages to Learn in 2024</h1>
+      <h2>Exploring the Top Programming Languages Shaping the Tech Landscape in 2024
       </h2>
       <Board />
       
