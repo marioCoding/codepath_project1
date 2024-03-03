@@ -1,6 +1,6 @@
 # Web Development Project 1 - *Top 10 Programming Languages to Learn in 2024*
 
-Submitted by: **Dylan Salinas**
+Submitted by: **Mario Salinas**
 
 This web app: **Exploring the Top Programming Languages Shaping the Tech Landscape in 2024**
 
