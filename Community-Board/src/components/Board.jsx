@@ -1,36 +1,33 @@
 import React from "react";
 import Event from "./Event";
 
-
 const Board = () => {
   return (
     <div className="Board">
       <table>
         <thead>
-        Welcome to "Top 10 Programming Languages to Learn in 2024," your ultimate guide to staying ahead in the dynamic world of coding. 
-        As technology continues to advance at a rapid pace, mastering the right programming languages is essential for career growth and innovation. 
-        Join us as we explore the top languages poised to shape the future of software development and equip you with the skills needed to thrive in the digital age.
+          Programming Langagues
         </thead>
         <tbody>
           <tr>
-            <Event event='JavaScript' color='blue'/>
-            <Event event='Python' color='blue'/>
+            <Event event='JavaScript' color='blue' img ='./javascript.jpg'/>
+            <Event event='Python' color='blue' img ='./python.png'/>
           </tr>
           <tr>
-            <Event event='C++' color='blue'/>
-            <Event event='Swift' color='blue'/>
+            <Event event='C++' color='blue' img ='./cpp.png'/>
+            <Event event='Swift' color='blue' img='./swift.jpg'/>
           </tr>
           <tr>
-            <Event event='Assembly' color='blue'/>
-            <Event event='Rust' color='blue'/>
+            <Event event='Assembly' color='blue' img='./assembly.webp'/>
+            <Event event='Rust' color='blue' img='rust.png'/>
           </tr>
           <tr>
-            <Event event='Typescript' color='blue'/>
-            <Event event='PHP' color='blue'/>
+            <Event event='Typescript' color='blue' img='typescript.png'/>
+            <Event event='PHP' color='blue' img='php.png'/>
           </tr>
           <tr>
-            <Event event='Java' color='blue'/>
-            <Event event='SQL' color='blue'/>
+            <Event event='Java' color='blue' img='java.png'/>
+            <Event event='SQL' color='blue' img='sql.png'/>
           </tr>
         </tbody>
         </table>

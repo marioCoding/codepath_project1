@@ -6,7 +6,7 @@ const Event = (props) => {
     <td className = {'Event ' + props.color}>
       <img src={props.img} alt={props.event} />
       <h5>{props.event}</h5>
-      <button onClick=>Learn More</button>
+      <button>Learn more</button>
     </td>
   )
 }
